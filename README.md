@@ -10,4 +10,6 @@ cd && git clone https://github.com/Marine-Robotics-Club/ros2_humble_install.git
 ```
 cd ~/ros2_humble_install && chmod +x ros2_humble_install && ./ros2_humble_install
 ```
+follow installation steps and enjoy ^_^
+
 NOTE: this will install ros2-humble-desktop
