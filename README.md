@@ -1,18 +1,13 @@
 # ros2_humble_install
-ros2_humble_install
+Requirements:
+- Ubuntu 22.04
+- 6 gb storage
 
-Option 1 git clone 
+GIT INSTALL:
 ```
-cd
-```
-```
-git clone https://github.com/Marine-Robotics-Club/ros2_humble_install.git
+cd && git clone https://github.com/Marine-Robotics-Club/ros2_humble_install.git
 ```
 ```
-chmod +x ros2_humble_install
+cd ~/ros2_humble_install && chmod +x ros2_humble_install && ./ros2_humble_install
 ```
-```
-./ros2_humble_install
-```
-
-Option 2 Download ZIP
+NOTE: this will install ros2-humble-desktop
