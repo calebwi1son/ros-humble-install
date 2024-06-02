@@ -36,6 +36,8 @@ echo "Setting up environment..."
 # Source the setup script
 # Replace ".bash" with your shell if you're not using bash
 # Possible values are: setup.bash, setup.sh, setup.zsh
+sudo apt install python3-colcon-common-extensions
+
 source /opt/ros/humble/setup.bash
 
 echo "ROS 2 installation completed."
